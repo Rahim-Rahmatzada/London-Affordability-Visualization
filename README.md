@@ -59,8 +59,8 @@ All visualizations are interactive and created using the Elm + VegaLite stack wi
 Clone the repo and run your Elm environment with the VegaLite and Tidy libraries. All data is fetched from public URLs and no authentication is required.
 
 ```bash
-git clone https://github.com/yourusername/london-housing-affordability-visualization.git
-cd london-housing-affordability-visualization
+git clone https://github.com/Rahim-Rahmatzada/London-Affordability-Visualization.git
+cd London-Affordability-Visualization
 elm reactor
 ```
 
