@@ -1,6 +1,9 @@
 ---
 id: litvis
 
+narrative-schemas:
+  - ../../lectures/narrative-schemas/project.yml
+
 elm:
   dependencies:
     gicentre/elm-vegalite: latest
